@@ -1,0 +1,1 @@
+# sta414-2104-homework-2-mnist-logistic-regression-gaussian-solved
